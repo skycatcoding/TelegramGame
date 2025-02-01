@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-TelegramGame-0.1";
 const contentToCache = [
-    "Build/Webgl1.loader.js",
-    "Build/Webgl1.framework.js.unityweb",
-    "Build/Webgl1.data.unityweb",
-    "Build/Webgl1.wasm.unityweb",
+    "Build/Webgl2.loader.js",
+    "Build/Webgl2.framework.js.unityweb",
+    "Build/Webgl2.data.unityweb",
+    "Build/Webgl2.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
